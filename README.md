@@ -9,11 +9,11 @@ Draw an involute gear's contour by MATLAB. The gear root contour is approximated
 
 运行gear_demo.m可以生成两个齿轮齿廓。
 
+Run gear_demo.m to get two gear contour.
+
 ![gear_demo.m](snap/gear_demo.png)
 
 
-
-Run gear_demo.m to get two gear contour.
 
 运行gear_2_Demo.m将调用gear_2函数，以绘制2个带变位系数的啮合齿轮的轮廓。
 
